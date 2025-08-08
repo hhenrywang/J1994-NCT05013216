@@ -1,5 +1,5 @@
-# J1994---NCT05013216
-R code for analysis of bulk TCRseq data for the colorectal cohort of NCT05013216. Instructions for running code are below.
+# J1994---NCT04117087
+R code for analysis of bulk TCRseq data for the colorectal cohort of NCT04117087. Instructions for running code are below.
 
 A. Data structure
 1. TCR sequencing files should be placed in /Data_Bulk within individual subfolders according to patient ID. File names should match the provided metadata.xlsx file
